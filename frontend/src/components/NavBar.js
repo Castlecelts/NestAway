@@ -9,7 +9,7 @@ class NavBar extends Component {
       <ul>
 
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/">Home1</Link>
         </li>
 
         <li>
@@ -31,7 +31,7 @@ class NavBar extends Component {
         <li>
           <Link to="/propertyform">New Nest</Link>
         </li>
-        
+
         <li>
           <Link to="/properties">Nests</Link>
         </li>
